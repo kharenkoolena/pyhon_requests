@@ -11,7 +11,7 @@
 
 ## Description
 
-This project is designed to perform testing on the Deezer API using Python and the requests library.
+This project is designed to perform testing on the Deezer API using Python and the requests library. It contains tests for Artist and Search endpoints.
 
 The [Deezer API](https://developers.deezer.com/api) is a comprehensive platform that allows developers to access various music-related data, including artists, tracks, albums, and more. The `requests` library, integrated into this project, enables the retrieval and verification of data from the Deezer API for the purpose of automated testing.
 

@@ -11,11 +11,13 @@
 
 ## Description
 
-This project is designed to perform testing on the Deezer API using Python and the requests library.
+This project is designed to perform testing on the Deezer API using Python and the requests library. It contains tests for Artist and Search endpoints.
+
 The [Deezer API](https://developers.deezer.com/api) is a comprehensive platform that allows developers to access various music-related data, including artists, tracks, albums, and more. The `requests` library, integrated into this project, enables the retrieval and verification of data from the Deezer API for the purpose of automated testing.
+
 This project is built using Python, a high-level programming language known for its simplicity and readability. Python offers a robust and extensive standard library and has a thriving community that contributes to its development and support. For more information on Python, visit the official Python website: [Python Official Website](https://www.python.org/)
+
 One of the key components of this project is the `requests` library, a powerful Python library designed for making HTTP requests. serves a main role in interacting with the [Deezer API](https://developers.deezer.com/api), providing uninterrupted communication for creating automated test cases. For detailed information about the `requests` library, refer to the [Requets Documentation](https://docs.python-requests.org/en/master/).
-This project uses the Selenium WebDriver, a popular tool for automating web applications for testing purposes. Selenium provides a user-friendly API that enables the interaction with various web elements, making it an ideal choice for web testing and automation tasks. To learn more about Selenium WebDriver, refer to the Selenium documentation: [Selenium Documentation](https://www.selenium.dev/documentation/en/)
 
 
 ## Installation
